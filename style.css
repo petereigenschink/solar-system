@@ -1,0 +1,54 @@
+body, html {
+  margin:0;
+  padding:0;
+  font-family:Arial;
+}
+#solarsystem {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  line-height: 100%;
+  vertical-align: middle;
+  top: 0;
+  bottom: 0;
+}
+#solarsystem div {
+  position: absolute;
+}
+#sun {
+  background-color: rgb(255, 234, 76);
+  border: 3px solid rgb(255, 153, 0);
+}
+#mercury {
+  background-color: rgb(245, 176, 0);
+  border: 3px solid rgb(182, 124, 0);
+}
+#venus {
+  background-color: rgb(255, 153, 95);
+  border: 3px solid rgb(128, 77, 0);
+}
+#earth {
+  background-color: rgb(102, 188, 255);
+  border: 3px solid rgb(0, 128, 56);
+}
+#mars {
+  background-color: rgb(255, 67, 19);
+  border: 3px solid rgb(172, 82, 0);
+}
+#jupiter {
+  background-color: rgb(102, 188, 255);
+  border: 3px solid rgb(0, 128, 56);
+}
+#saturn {
+  background-color: rgb(102, 188, 255);
+  border: 3px solid rgb(0, 128, 56);
+}
+#uranus {
+  background-color: rgb(102, 188, 255);
+  border: 3px solid rgb(0, 128, 56);
+}
+#neptune {
+  background-color: rgb(102, 188, 255);
+  border: 3px solid rgb(0, 128, 56);
+}
